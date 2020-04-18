@@ -1,0 +1,51 @@
+html โครงสร้าง
+
+<> tag </> end of the tag
+
+<html>
+<head>
+<title> </title>
+</head>
+<body>
+</body>
+</html>
+
+the first part is the head and title 
+
+<html>
+<head>
+<title> </title>
+</head>
+
+the second part is the body
+
+<body>
+</body>
+</html>
+
+Heading tag <h></h> formed six different sizes <h1> largest to <h6> smallest
+
+list , 2 different types of list <ul> unordered list and <ol> ordered list 
+these 2 tags follow by the <li> tag </li> list item tag
+
+<img src=""> doesn't end tag can be follow by attributes (width="can be % or specified" , height="" )
+
+Table tag
+<table>
+<tr> for the table row </tr>
+<th> for the table header </th>
+<td> for the table data </td>
+</table>
+
+form tag
+<form>
+<input type="text" place holder="for a longer text" name=" to name this whole form">
+<button> to create a button for click on </button>
+</form>
+
+Style tag 
+<style=" (colour:)can be given in colour , (text-align:) and etc"> can find colour from google html colour picker ,,,,
+We can use style with a larger tag
+<style>
+We can put another tag here and will be style for each own way without specify to each of the tag 
+</style>
