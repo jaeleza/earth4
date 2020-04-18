@@ -28,11 +28,7 @@ Heading tag <h></h> formed six different sizes <h1> largest to <h6> smallest
 list , 2 different types of list <ul> unordered list and <ol> ordered list 
 these 2 tags follow by the <li> tag </li> list item tag
 
-<<<<<<< HEAD
 <img src=""> doesn't end tag can be follow by attributes (width="can be % or specified" , height="" )
-=======
-<img src=""> doesn't end tag can be follow by artibutes (widt="can be % or specified" , height="" )
->>>>>>> 5f2fe1c38ad54231bcaa8956bc9a143d47426a09
 
 Table tag
 <table>
@@ -45,7 +41,6 @@ form tag
 <form>
 <input type="text" place holder="for a longer text" name=" to name this whole form">
 <button> to create a button for click on </button>
-<<<<<<< HEAD
 </form>
 
 Style tag 
@@ -54,6 +49,19 @@ We can use style with a larger tag
 <style>
 We can put another tag here and will be style for each own way without specify to each of the tag 
 </style>
-=======
-</form>
->>>>>>> 5f2fe1c38ad54231bcaa8956bc9a143d47426a09
+
+How to use git command
+
+Upload to GitHub
+ 
+Git add 
+Git add (files name.etc) >>>>> git add hello.html
+
+Git commit
+Git commit -m “for any messages” >>>>>> it is like snapshot of what you are doing right now before adding to repository
+
+Git status
+Git status >>>> what is going right now in the repository
+
+Git push
+Git push   >>>>> sending those change files into repository
