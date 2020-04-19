@@ -13,3 +13,6 @@ Git status >>>> what is going right now in the repository
 
 Git push
 Git push   >>>>> sending those change files into repository
+
+git branch 
+git branch (the name of the new branch will create another branch but if just type git branch it will just show the master and the branch)

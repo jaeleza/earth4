@@ -50,4 +50,23 @@ We can use style with a larger tag
 We can put another tag here and will be style for each own way without specify to each of the tag 
 </style>
 
+link tag is use to link the relative file of html or css so it wouldn't be messy on files
+<link rel=stylesheet href="your files name ex. styles.css">
 
+diffrent between margin and padding
+margin is for overall spacing inside html
+padding is space between element inside margin
+
+font 
+font-family
+font-size
+font-weight
+
+border เอาไว้ตีกรอบให้ข้อความหรือรูป
+
+div เอาไว้ใช้ในการแบ่ง section ต่างๆเฉยๆในแนว vertical
+<div></div> and <span> no really has any meaning
+
+ID and class
+id= specified one things it can only be one id  # can be use for id
+class= class can be specified to others type  . can be use for class
