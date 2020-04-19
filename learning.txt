@@ -50,18 +50,4 @@ We can use style with a larger tag
 We can put another tag here and will be style for each own way without specify to each of the tag 
 </style>
 
-How to use git command
 
-Upload to GitHub
- 
-Git add 
-Git add (files name.etc) >>>>> git add hello.html
-
-Git commit
-Git commit -m “for any messages” >>>>>> it is like snapshot of what you are doing right now before adding to repository
-
-Git status
-Git status >>>> what is going right now in the repository
-
-Git push
-Git push   >>>>> sending those change files into repository
