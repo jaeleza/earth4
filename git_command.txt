@@ -7,7 +7,8 @@ Git add (files name.etc) >>>>> git add hello.html
 
 Git commit
 Git commit -m “for any messages” >>>>>> it is like snapshot of what you are doing right now before adding to repository
-
+git commit -am "for any message"  >>>>>>> the faster way to combine git add and git commit together when you want to update all the files
+  
 Git status
 Git status >>>> what is going right now in the repository
 
@@ -16,3 +17,6 @@ Git push   >>>>> sending those change files into repository
 
 git branch 
 git branch (the name of the new branch will create another branch but if just type git branch it will just show the master and the branch)
+
+git checkout 
+git checkout is use to change the branch between each of branch in your repository
